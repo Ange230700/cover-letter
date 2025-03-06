@@ -7,11 +7,11 @@ const coverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "6 Mars 2025", // Adjust the date as needed
-    recipientName: "Amaury CLOCHARD, co-fondateur",
-    recipientCompany: "CamAnalytics",
-    recipientAddress: "51100 Reims",
+    recipientName: "",
+    recipientCompany: "ATOS",
+    recipientAddress: "Toulouse, France",
   },
-  salutation: "Monsieur CLOCHARD,",
+  salutation: "Madame, Monsieur,",
   body: {
     introduction:
       "Actuellement en formation Développeur Web et Mobile à l'ADA Tech School, je souhaite vivement rejoindre vos équipes en tant que Développeur JavaScript en alternance à partir de juin 2025. Le domaine spatial ainsi que le développement d'interfaces graphiques en environnement Agile m'attirent particulièrement et s'alignent avec mes ambitions professionnelles.",
