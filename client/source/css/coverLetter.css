@@ -1,0 +1,53 @@
+/* client/source/coverLetter.css */
+
+/* ------------------------- */
+/* Header Layout: header-top and recipient-info side-by-side */
+/* ------------------------- */
+.cover-letter-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: calc(var(--spacing) * 2);
+  margin-bottom: calc(var(--spacing) * 2);
+}
+
+.header-top {
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--spacing) * 2);
+}
+
+.header-top,
+.recipient-info {
+  width: 30%;
+  word-wrap: break-word;
+}
+
+.recipient-info {
+  text-align: right;
+}
+
+/* ------------------------- */
+/* Main Section Layout */
+/* ------------------------- */
+
+/* Remove the previous justify-content and let main fill available space */
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--spacing) * 2);
+  padding-top: calc(var(--spacing) * 2);
+}
+
+/* Style for salutation, body, and closing */
+.cover-letter-salutation,
+.cover-letter-body,
+.cover-letter-closing {
+  margin-bottom: calc(var(--spacing) * 2);
+}
+
+/* Optional: improve text spacing in the body */
+.cover-letter-body p {
+  margin-bottom: calc(var(--spacing) * 1.5);
+}

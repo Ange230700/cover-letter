@@ -1,0 +1,22 @@
+/* source\css\variables.css */
+
+:root {
+  /* A4 dimensions */
+  --page-width: 2480px;
+  --page-height: 3508px;
+
+  /* Colors */
+  --title-color: hsla(204, 42%, 27%, 1);
+  --title-color-2: hsla(204, 42%, 27%, 0.8);
+
+  /* Sizes */
+  --standard-unit-size: 10px;
+  font-size: calc(var(--standard-unit-size) * 5);
+
+  /* Spacing */
+  --spacing: calc(var(--standard-unit-size) * 1);
+  padding: calc(var(--spacing) * 0) calc(var(--spacing) * 4);
+
+  /* Font family */
+  --main-font-family: "Urbanist", sans-serif;
+}

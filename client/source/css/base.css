@@ -1,0 +1,52 @@
+/* source\css\base.css */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--main-font-family);
+}
+
+html,
+body,
+#letter-wrapper {
+  overflow: hidden;
+}
+
+html {
+  max-width: var(--page-width);
+  height: var(--page-height);
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+#letter-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: calc(var(--spacing) * 8);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+h3 {
+  text-decoration: underline;
+  margin-bottom: calc(var(--spacing) * 3);
+  color: var(--title-color);
+}
