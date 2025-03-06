@@ -13,7 +13,7 @@ const path = require("path");
   }); // Adjust the URL and port if necessary
   await page.pdf({
     // eslint-disable-next-line no-undef
-    path: path.join(__dirname, "resume.pdf"),
+    path: path.join(__dirname, "cover-letter.pdf"),
     format: "A4",
     printBackground: true,
     scale: 0.3125, // Adjust the scale as necessary to fit everything on one page
