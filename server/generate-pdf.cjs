@@ -8,7 +8,7 @@ const path = require("path");
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });
   const page = await browser.newPage();
-  await page.goto("https://definite-resume-client.vercel.app/", {
+  await page.goto("https://cover-letter-client.vercel.app/", {
     waitUntil: "networkidle0",
   }); // Adjust the URL and port if necessary
   await page.pdf({
