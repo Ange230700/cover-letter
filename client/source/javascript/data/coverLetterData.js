@@ -3,15 +3,15 @@
 const coverLetterData = {
   header: {
     senderName: "Ange KOUAKOU",
-    senderAddress: "Nantes, France",
+    senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "6 Mars 2025", // Adjust the date as needed
-    recipientName: "Hiring Manager",
-    recipientCompany: "Company Name",
-    recipientAddress: "Company Address",
+    recipientName: "Amaury CLOCHARD, co-fondateur",
+    recipientCompany: "CamAnalytics",
+    recipientAddress: "51100 Reims",
   },
-  salutation: "Madame, Monsieur,",
+  salutation: "Monsieur CLOCHARD,",
   body: {
     introduction:
       "Actuellement en formation de Développeur Web et Mobile à l'ADA Tech School, je souhaite vivement rejoindre votre équipe en tant que Développeur JavaScript en alternance dès septembre 2025. Profondément intéressé par le développement et l'automatisation, votre poste axé sur le web scraping correspond hautement à mon profil et à mes aspirations professionnelles.",

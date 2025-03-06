@@ -17,7 +17,7 @@
 
 .header-top,
 .recipient-info {
-  width: 35%;
+  width: 43%;
   word-wrap: break-word;
 }
 
@@ -34,17 +34,17 @@ main {
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: calc(var(--spacing) * 2);
+  gap: calc(var(--spacing) * 5);
 }
 
-/* Style for salutation, body, and closing */
-.cover-letter-salutation,
-.cover-letter-body,
+.cover-letter-body {
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--spacing) * 5);
+}
+
 .cover-letter-closing {
-  margin-bottom: calc(var(--spacing) * 2);
-}
-
-/* Optional: improve text spacing in the body */
-.cover-letter-body p {
-  margin-bottom: calc(var(--spacing) * 1.5);
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--spacing) * 1.5);
 }

@@ -16,8 +16,8 @@ function generateCoverLetterHeader(data) {
         </section>
       </div>
       <section class="recipient-info">
-        <p>${data.header.recipientName}</p>
         <p>${data.header.recipientCompany}</p>
+        <p>${data.header.recipientName}</p>
         <p>${data.header.recipientAddress}</p>
       </section>
     </header>
