@@ -14,11 +14,11 @@ const coverLetterData = {
   salutation: "Monsieur CLOCHARD,",
   body: {
     introduction:
-      "Actuellement en formation de Développeur Web et Mobile à l'ADA Tech School, je souhaite vivement rejoindre votre équipe en tant que Développeur JavaScript en alternance dès septembre 2025. Profondément intéressé par le développement et l'automatisation, votre poste axé sur le web scraping correspond hautement à mon profil et à mes aspirations professionnelles.",
+      "Actuellement en formation Développeur Web et Mobile à l'ADA Tech School, je souhaite vivement rejoindre vos équipes en tant que Développeur JavaScript en alternance à partir de juin 2025. Le domaine spatial ainsi que le développement d'interfaces graphiques en environnement Agile m'attirent particulièrement et s'alignent avec mes ambitions professionnelles.",
     mainContent:
-      "Lors de mes précédentes expériences et projets, j'ai acquis une solide maîtrise de JavaScript, Node.js. J'ai notamment eu l'occasion d'expérimenter la bibliothèque puppeteer via Node Package Manager pour convertir mon CV créé en HTML/CSS/JS en format PDF. Mes projets personnels et en équipe témoignent de mon autonomie, ma capacité à résoudre des problèmes complexes, et ma curiosité technique constante. Je suis convaincu que ces compétences techniques me permettront de contribuer efficacement à vos projets d'intégration de solutions de web scraping sur diverses plateformes comme Glovo ou JustEat.",
+      "Mes expériences précédentes ainsi que mes projets réalisés au sein d'équipes Agile m'ont permis d'acquérir une solide expertise en JavaScript, React.js, Node.js, ainsi que dans l'utilisation de Git. J'ai brièvement expérimenté l'environnement Linux à travers l'hébergement de certains de mes projets sur un VPS d'OVH. J'ai notamment développé plusieurs applications web complètes impliquant le traitement et la visualisation de données dynamiques, ce qui rejoint directement les missions proposées par votre équipe ISIS dans la conception d'interfaces graphiques pour les Centres de Contrôle Commande satellites. Mon autonomie, mon adaptabilité, ainsi que mon expérience concrète avec les méthodologies Scrum me permettront d'intégrer rapidement votre équipe et de contribuer efficacement à la réussite de vos projets.",
     conclusion:
-      "Je serais ravi de pouvoir échanger avec vous afin de vous présenter davantage mes réalisations et discuter de la manière dont je pourrais participer activement à la croissance de vos activités.",
+      "Je serais ravi de pouvoir échanger avec vous afin de discuter plus en détail de mon parcours et de vous présenter comment je pourrais participer activement au développement de vos applications spatiales.",
   },
   closing: {
     regards: "Respectueusement,",
