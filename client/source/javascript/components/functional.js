@@ -8,7 +8,8 @@ function generateCoverLetterHeader(data) {
         <section class="sender-info">
           <p>${data.header.senderName}</p>
           <p>${data.header.senderAddress}</p>
-          <p>${data.header.senderEmail} | ${data.header.senderPhone}</p>
+          <p>${data.header.senderEmail}</p>
+          <p>${data.header.senderPhone}</p>
         </section>
         <section class="date">
           <p>${data.header.date}</p>
