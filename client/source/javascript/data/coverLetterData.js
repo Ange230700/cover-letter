@@ -6,19 +6,19 @@ const coverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "10 Mars 2025",
+    date: "3 Avril 2025",
     recipientName: "",
-    recipientCompany: "Bouygues Telecom",
-    recipientAddress: "62/76 Rue des Français Libres, 44200 Nantes",
+    recipientCompany: "Edflex",
+    recipientAddress: "44200 Nantes, France",
   },
   salutation: "Madame, Monsieur,",
   body: {
     introduction:
-      "Actuellement en formation Développeur Web et Mobile à l'ADA Tech School, je souhaite vivement rejoindre vos équipes en tant que Développeur Fullstack en alternance à partir de septembre 2025. Passionné par les défis technologiques, je suis particulièrement intéressé par le développement d'applications innovantes intégrant l'intelligence artificielle.",
+      "Actuellement en formation Développeur Web et Mobile à l’ADA Tech School, je suis très enthousiaste à l’idée de rejoindre Edflex en tant que Développeur Fullstack en alternance à partir de septembre 2025. Votre mission d’accompagner les entreprises dans leur transformation digitale et le renouvellement des compétences me motive particulièrement, tout comme votre engagement à offrir une expérience d’apprentissage innovante et performante.",
     mainContent:
-      "Mes projets académiques et personnels m'ont permis d'acquérir de solides compétences en React, JavaScript, Node.js, ainsi qu'une aisance avec Python et les frameworks Java tels que Spring. J'ai une expérience concrète dans la conception et le développement d'applications web interactives, ainsi que dans l'intégration d'API et la mise en place de pipelines CI/CD. Je suis également très intéressé par les architectures avancées telles que le Retrieval-Augmented Generation (RAG) et je suis enthousiaste à l'idée d'apporter ma rigueur, mon adaptabilité et ma capacité d'analyse au sein de votre équipe dédiée aux applicatifs risque, fraude et recouvrement.",
+      "À travers mes différentes expériences académiques et professionnelles, j’ai acquis une solide maîtrise des technologies telles que PHP, Symfony, Composer et Twig. Lors de projets comme le développement d’un back-office pour une association sous PHP-Symfony, j’ai pu appliquer concrètement les bonnes pratiques en matière d’architecture logicielle et de gestion des API. Je suis particulièrement attiré par votre environnement technique stimulant et suis déterminé à approfondir mes connaissances en Clean Architecture et Domain Driven Design au sein de vos équipes.",
     conclusion:
-      "Je serais ravi d'échanger avec vous lors d'un entretien afin de vous démontrer comment mes compétences techniques et humaines pourraient contribuer efficacement à vos projets innovants chez Bouygues Telecom.",
+      "Rigoureux, autonome, et doté d’une grande capacité d’adaptation, je suis impatient de contribuer activement aux projets ambitieux d’Edflex et d’apporter mes compétences techniques et humaines à votre collectif agile. Je serais ravi d’échanger avec vous lors d’un entretien afin de vous présenter plus en détail ma motivation et les contributions que je pourrais apporter à votre équipe.",
   },
   closing: {
     regards: "Respectueusement,",
